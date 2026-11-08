@@ -1,0 +1,5 @@
+*.exe
+*.o
+products.txt
+sales_history.txt
+daily_sales.txt
